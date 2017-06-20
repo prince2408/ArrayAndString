@@ -1,6 +1,7 @@
 
 Advantage of lambda operation:
-Lambda supports parallel processing.
+1) Lambda supports parallel processing.
+2) Enables functional programming.
 
 In order to utilize lambda create/ or use an existing funcational inteface which contains that only one method with the same signature as a return type of lambda and use it as a type of the variable on which lambda is getting assigned.
  
